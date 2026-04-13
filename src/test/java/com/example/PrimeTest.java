@@ -1,7 +1,7 @@
 package com.example;
 import org.junit.Test;
 import static org.junit.Assert.*;
-public class EvenTest{
+public class PrimeTest{
     Prime e=new Prime();
     @Test
     public void even(){
